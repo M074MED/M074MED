@@ -9,7 +9,7 @@
   <img src="https://github.com/M074MED/M074MED/blob/main/profile-img.png" align="right" width="25%"/>
 
 I'm a Django Developer with Front-End basics (HTML, CSS, JavaScript, jQuery, Bootstrap and React JS).
-I have one year of experience in Python and I created some projects (Django WebShop with MySQL DB and Ajax and Bootstrap, Django Job Board with API and MySQL DB, Django Library Management System, ReactJS Weather App, Bootstrap and jQuery Template, HTML and CSS and JS Template, and other projects on GitHub), You can see them by clicking <a href="https://m074med.github.io/My_Portfolio/#portfolio">here</a>.
+I have more than one year of experience in Python and I created some projects (Django WebShop with MySQL DB and Ajax and Bootstrap, Django Job Board with API and MySQL DB, Django Library Management System, ReactJS Weather App, Bootstrap and jQuery Template, HTML and CSS and JS Template, and other projects on GitHub), You can see them by clicking <a href="https://m074med.github.io/My_Portfolio/#portfolio">here</a>.
 
 - 🔭 I'm a Django developer
 - 📁 My Portfolio: https://m074med.github.io/My_Portfolio
@@ -20,4 +20,5 @@ I have one year of experience in Python and I created some projects (Django WebS
   - [ReactJS Weather App](https://m074med.github.io/Simple_ReactJS_Weather_App)
   - [Bootstrap and jQuery Template](https://m074med.github.io/Bootstrap_and_jQuery_Template)
   - [HTML, CSS and JS Template](https://m074med.github.io/HTML_and_CSS_and_JS_Template)
+  - [And More](https://github.com/M074MED?tab=repositories)
 - 💬 Ask me about **Django and Backend**
