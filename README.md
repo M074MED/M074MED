@@ -8,7 +8,7 @@
   
   <img src="https://github.com/M074MED/M074MED/blob/main/profile-img.png" align="right" width="25%"/>
 
-I'm a Django Developer with Front-End basics (HTML, CSS, JavaScript, jQuery, Bootstrap and React JS).
+I'm a Django Developer with the Front-End basics (HTML, CSS, JavaScript, jQuery, Bootstrap and React JS).
 I have more than one year of experience in Python and I created some projects (Django WebShop with MySQL DB and Ajax and Bootstrap, Django Job Board with API and MySQL DB, Django Library Management System, ReactJS Weather App, Bootstrap and jQuery Template, HTML and CSS and JS Template, and other projects on GitHub), You can see them by clicking <a href="https://m074med.github.io/My_Portfolio/#portfolio">here</a>.
 
 - 🔭 I'm a Django developer
