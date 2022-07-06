@@ -8,10 +8,9 @@
   
   <img src="https://github.com/M074MED/M074MED/blob/main/profile-img.png" align="right" width="25%"/>
 
-I'm a Django Developer with the Front-End basics (HTML, CSS, JavaScript, jQuery, Bootstrap and React JS).
-I have more than one year of experience in Python and I created some projects (Django WebShop with MySQL DB and Ajax and Bootstrap, Django Job Board with API and MySQL DB, Django Library Management System, ReactJS Weather App, Bootstrap and jQuery Template, HTML and CSS and JS Template, and other projects on GitHub), You can see them by clicking <a href="https://m074med.github.io/My_Portfolio/#portfolio">here</a>.
+I am Mohammed, I am a Software Developer at AUC (The American University in Cairo). I have two years of experience in The Software Development, and I created some projects (Django WebShop with MySQL DB and Ajax and Bootstrap, Django Job Board with API and MySQL DB, Django Library Management System, ReactJS Weather App, Bootstrap and jQuery Template, HTML and CSS and JS Template, and other projects on GitHub), You can see them by clicking <a href="https://m074med.github.io/My_Portfolio/#portfolio">here</a>.
 
-- 🔭 I'm a Django developer
+- 🔭 I'm a Software Developer at AUC (The American University in Cairo).
 - 📁 My Portfolio: https://m074med.github.io/My_Portfolio
 - 🔍 My Projects:
   - [Django WebShop](https://webshop.pythonanywhere.com)
@@ -21,4 +20,4 @@ I have more than one year of experience in Python and I created some projects (D
   - [Bootstrap and jQuery Template](https://m074med.github.io/Bootstrap_and_jQuery_Template)
   - [HTML, CSS and JS Template](https://m074med.github.io/HTML_and_CSS_and_JS_Template)
   - [And More](https://github.com/M074MED?tab=repositories)
-- 💬 Ask me about **Django and Backend**
+- 💬 Ask me about **Software Development**
