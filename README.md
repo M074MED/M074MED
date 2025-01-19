@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohammed 👋</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/m074med"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://twitter.com/_m074med_"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/:_m074med_"></a>
+    <a href="https://x.com/_m074med_"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/:_m074med_"></a>
     <a href="https://www.instagram.com/_m074med_"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
     <a href="https://www.facebook.com/m074med"><img src="https://img.shields.io/badge/facebook-%233b5998?style=flat&logo=facebook&logoColor=white"/></a>
   </p>
