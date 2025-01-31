@@ -1,9 +1,12 @@
 <h1 align="center">Hi, I'm Mohammed 👋</h1>
 <p align="center">
-    <a href="https://www.linkedin.com/in/m074med"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://x.com/_m074med_"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/:_m074med_"></a>
-    <a href="https://www.instagram.com/_m074med_"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-    <a href="https://www.facebook.com/m074med"><img src="https://img.shields.io/badge/facebook-%233b5998?style=flat&logo=facebook&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/m074med" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+    <a href="mailto:contact.mohammedmamdouh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
+    <a href="https://www.upwork.com/freelancers/~018923da1797a42902?mp_source=share" target="_blank"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white" alt="Upwork"></a>
+    <a href="https://www.youtube.com/@M074MED" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23ff0033?style=flat&logo=youtube&logoColor=white" alt="YouTube"/></a>
+    <a href="https://x.com/_m074med_" target="_blank"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/:_m074med_"></a>
+    <a href="https://www.instagram.com/_m074med_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4415F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://www.facebook.com/m074med" target="_blank"><img src="https://img.shields.io/badge/Facebook-%233b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"/></a>
   </p>
   
   <img src="https://github.com/M074MED/M074MED/blob/main/profile-img.png" align="right" width="25%"/>
